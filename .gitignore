@@ -1,4 +1,4 @@
-./checkpoints
-./freezeg_test
-./test_images
+/checkpoints
+/freezeg_test
+/test_images
 *.ipynb
