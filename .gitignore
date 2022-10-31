@@ -3,3 +3,5 @@
 /test_images
 *.ipynb
 /output
+*.png
+*.jpg
